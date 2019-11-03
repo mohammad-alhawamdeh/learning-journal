@@ -4,7 +4,8 @@ my im mohammad alhawamdeh and i will tell you whats the growth mindset,in the be
 ## how to keep yourself in a growth mindset :+1:
 1. dont say i cant just try.
 2. be patient .
-3. dont be shy from asking help .
+3. dont be shy for asking help .
+
 [for help](https://www.mindsetworks.com/science//CONTRIBUTING.md)
 
 
