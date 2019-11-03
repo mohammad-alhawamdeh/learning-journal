@@ -6,6 +6,7 @@ I will tell you whats the growth mindset,in the begning the growth mindset its a
 1. dont say i cant just try.
 2. be patient .
 3. dont be shy for asking help .
+![image to help ](https://cdn.shopify.com/s/files/1/2013/0229/products/growth_mindset_poster_kids_800x.png?v=1531968705)
 
 [for help](https://www.mindsetworks.com/science//CONTRIBUTING.md)
 
