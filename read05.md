@@ -6,7 +6,7 @@ Color names:Colors are represented by predefined names. However, they are very l
 background color
 CSS treats each HTML element as if it appears in a box, and the background-color property sets the color of the background for that box. background-color: DarkCyan;
 
-# understanding Color
+# Understanding Color
 Every color on a computer screen is created by mixing amounts of red, green, and blue. To find the color you want, you can use a color picker or you can use Color picking tools are available in image editing programs like Photoshop and GIMP
 
 # Contrast
