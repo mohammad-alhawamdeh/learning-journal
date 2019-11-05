@@ -1,4 +1,4 @@
-## color in css
+## Color In CSS
 The color property allows you to specify the color of text inside an element. You can specify any color in CSS in one of three ways
 rgb values:Values for red, green, and blue are expressed as numbers between 0 and 255.
 hex Codes:Hex values represent values for red, green, and blue in hexadecimal code
