@@ -12,7 +12,7 @@ Every color on a computer screen is created by mixing amounts of red, green, and
 Contrast
 When picking foreground and background colors, it is important to ensure that there is enough contrast for the text to be legible.
 
-hsl Colors
+HSsl Colors
 Hue
 satuRatioN
 liGHtNess
